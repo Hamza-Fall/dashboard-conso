@@ -1,0 +1,11 @@
+     .venv/
+     __pycache__/
+     *.pyc
+     *.db
+     *.db.tmp
+     *.db-journal
+     Agriculteurs/
+     Industriels/
+     Sites publiques/
+     Tarifs/
+     *.xlsx
